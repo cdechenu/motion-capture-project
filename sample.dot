@@ -1,0 +1,9 @@
+digraph mark_johnson_graph
+{
+  this -> that;
+  that -> "the other";
+  this -> there;
+  there -> anywhere;
+  anywhere -> "except here";
+
+} 
